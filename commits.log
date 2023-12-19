@@ -1,0 +1,98 @@
+commit 3f9a3d805ab4eb2efe3aba07caf49a8ce6e3919f
+Author: gomezgonzalo2012 <gomezgonzalo2012@gmail.com>
+Date:   Tue Dec 19 11:32:34 2023 -0300
+
+    Agregando 2 párrafos
+
+commit 264a293cb32671c426ed2fe7eef0da2d7f9ce75d
+Merge: a21671c ab67b50
+Author: gomezgonzalo2012 <gomezgonzalo2012@gmail.com>
+Date:   Fri Dec 15 23:08:22 2023 -0300
+
+    Resolviendo conflicto en estaciones del año y fecha de inicio
+
+commit a21671cec84acfff391a9877589aff43256a6bd1
+Author: gomezgonzalo2012 <gomezgonzalo2012@gmail.com>
+Date:   Fri Dec 15 22:19:09 2023 -0300
+
+    Estaciones del año para el hemisferio sur
+
+commit ab67b5055f7798650f17f967e2fb0ca9c66d5f52
+Author: gomezgonzalo2012 <gomezgonzalo2012@gmail.com>
+Date:   Fri Dec 15 22:19:09 2023 -0300
+
+    Agregando estaciones del Año
+
+commit 9b432160c3e213e2ff73674cccd4671dfc2717a2
+Merge: 120d107 fdea565
+Author: gomezgonzalo2012 <gomezgonzalo2012@gmail.com>
+Date:   Fri Dec 15 22:00:44 2023 -0300
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit fdea565e2a2a7cb60213837548502f05d679f464
+Author: gomezgonzalo2012 <gomezgonzalo2012@gmail.com>
+Date:   Fri Dec 15 21:46:09 2023 -0300
+
+    agregando index.js al doc index.html
+
+commit 120d1075809b4859f494b6713819a00c35192e7e
+Author: gomezgonzalo2012 <gomezgonzalo2012@gmail.com>
+Date:   Fri Dec 15 21:34:03 2023 -0300
+
+    Agregando el styles.css a index.html
+
+commit c3c7d8b5b33f3954f622f2ed6181b10d8c0f6c1f
+Merge: 03b587e 6eb86c3
+Author: gomezgonzalo2012 <gomezgonzalo2012@gmail.com>
+Date:   Thu Dec 14 20:25:12 2023 -0300
+
+    Merge branch 'js'
+
+commit 6eb86c3c9f7f284c310d2d558d782ffc3493964c
+Author: gomezgonzalo2012 <gomezgonzalo2012@gmail.com>
+Date:   Sat Oct 7 22:00:52 2023 -0300
+
+    Creando index.js
+
+commit 03b587e3060f6593ae7406437b92927071f639bb
+Author: gomezgonzalo2012 <gomezgonzalo2012@gmail.com>
+Date:   Sat Oct 7 21:41:27 2023 -0300
+
+    Creando style.css
+
+commit d6380ac8bdcf9e9f7934d3eaa4b36b78870567e9
+Author: gomezgonzalo2012 <gomezgonzalo2012@gmail.com>
+Date:   Sat Oct 7 21:28:32 2023 -0300
+
+    creando index.html
+
+commit a4883b5edc98ab21f4fe63b1883bcdec238f886a
+Author: gomezgonzalo2012 <gomezgonzalo2012@gmail.com>
+Date:   Sat Oct 7 20:58:46 2023 -0300
+
+    Ignorando archivos .exe
+
+commit 6c1ac2cd5da2155bc65723ce18c37f042d4bd2f8
+Author: gomezgonzalo2012 <114015286+gomezgonzalo2012@users.noreply.github.com>
+Date:   Thu Oct 5 20:42:53 2023 -0300
+
+    Creando licencia del repositorio
+
+commit f0dd58b90990e054f8fd565d6e03bce7877f2764
+Author: gomezgonzalo2012 <gomezgonzalo2012@gmail.com>
+Date:   Thu Oct 5 20:35:26 2023 -0300
+
+    agregando mas contenido al README
+
+commit 6aa4e6f7ecb767e2f66dbed377d9dda871de30c3
+Author: gomezgonzalo2012 <gomezgonzalo2012@gmail.com>
+Date:   Thu Oct 5 20:17:34 2023 -0300
+
+    Agregando contenido inicial al README
+
+commit cec5676afbaac6c22b3026262e3b313ef0185a50
+Author: gomezgonzalo2012 <gomezgonzalo2012@gmail.com>
+Date:   Tue Oct 3 23:10:55 2023 -0300
+
+    Primer commit
