@@ -2,6 +2,7 @@
 
 Hola esta es mi prueba de creacio de un archivo Readme.md 
 
-Agregando más contenido al Readme.md
+¿Quieres dominar el uso de _git_ ? 
+Mira este [enlace](https://jonmircha.com/git)
 
-_Creando la equiqueta para la version **1.0.0**_ 
+![Flujo de git](git-flow.png)
